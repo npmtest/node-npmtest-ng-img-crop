@@ -38,17 +38,11 @@
     "author": {
         "name": "Alex Kaul"
     },
-    "name": "ng-img-crop",
-    "prettyName": "ngImgCrop",
-    "version": "0.2.0",
-    "description": "Image crop directive for AngularJS",
-    "license": "MIT",
-    "homepage": "https://github.com/alexk111/ngImgCrop",
-    "repository": {
-        "type": "git",
-        "url": "https://github.com/alexk111/ngImgCrop.git"
+    "bugs": {
+        "url": "https://github.com/alexk111/ngImgCrop/issues"
     },
     "dependencies": {},
+    "description": "Image crop directive for AngularJS",
     "devDependencies": {
         "connect-livereload": "^0.4.0",
         "express": "^4.4.5",
@@ -72,6 +66,27 @@
         "opn": "^0.1.2",
         "tiny-lr": "0.0.7"
     },
+    "directories": {},
+    "dist": {
+        "shasum": "80255d9133b20e4bb04563032e3310db6099cf51",
+        "tarball": "https://registry.npmjs.org/ng-img-crop/-/ng-img-crop-0.2.0.tgz"
+    },
+    "homepage": "https://github.com/alexk111/ngImgCrop",
+    "license": "MIT",
+    "maintainers": [
+        {
+            "name": "alexkaul"
+        }
+    ],
+    "name": "ng-img-crop",
+    "optionalDependencies": {},
+    "prettyName": "ngImgCrop",
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/alexk111/ngImgCrop.git"
+    },
+    "scripts": {},
+    "version": "0.2.0",
     "bin": {}
 }
 ```
